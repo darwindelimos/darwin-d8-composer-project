@@ -1,0 +1,14 @@
+uuid: 867bc669-dd7e-4e57-a3fa-6512e55cf866
+name: darwin-d8-composer-project
+mail: darwin.delimos@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
